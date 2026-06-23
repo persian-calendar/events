@@ -1808,12 +1808,17 @@
       "calendar": "Hijri", "rule": "simple",
       "metadata": {
         "beginningPersianYear": 1272,
-        "beginningPersianYearReference": "https://upload.wikimedia.org/wikipedia/commons/8/8f/تقویم_فارسی_سال_۱۲۷۲_هجری_شمسی.pdf"
+        "beginningPersianYearReference": "https://upload.wikimedia.org/wikipedia/commons/8/8f/تقویم_فارسی_سال_۱۲۷۲_هجری_شمسی.pdf#page=14"
       }
     },
     { "holiday": true, "month": 1, "day": 10, "type": "Iran",
       "title": "عاشورای حسینی",
-      "calendar": "Hijri", "rule": "simple" },
+      "calendar": "Hijri", "rule": "simple",
+      "metadata": {
+        "beginningPersianYear": 1272,
+        "beginningPersianYearReference": "https://upload.wikimedia.org/wikipedia/commons/8/8f/تقویم_فارسی_سال_۱۲۷۲_هجری_شمسی.pdf#page=14"
+      }
+    },
     { "holiday": false, "month": 1, "day": 11, "type": "Iran",
       "title": "روز تجلیل از اسرا و مفقودان",
       "calendar": "Hijri", "rule": "simple" },
@@ -1837,7 +1842,12 @@
       "calendar": "Hijri", "rule": "simple" },
     { "holiday": true, "month": 2, "day": 20, "type": "Iran",
       "title": "اربعین حسینی",
-      "calendar": "Hijri", "rule": "simple" },
+      "calendar": "Hijri", "rule": "simple",
+      "metadata": {
+        "beginningPersianYear": 1272,
+        "beginningPersianYearReference": "https://upload.wikimedia.org/wikipedia/commons/8/8f/تقویم_فارسی_سال_۱۲۷۲_هجری_شمسی.pdf#page=17"
+      }
+    },
     { "holiday": true, "month": 2, "day": 28, "type": "Iran",
       "title": "رحلت حضرت رسول اکرم (ص) (۱۱ ه‍.ق) – شهادت حضرت امام حسن مجتبی (ع) (۵۰ ه‍.ق)",
       "calendar": "Hijri", "rule": "simple" },
@@ -1981,7 +1991,12 @@
       "calendar": "Hijri", "rule": "simple" },
     { "holiday": true, "month": 10, "day": 1, "type": "Iran",
       "title": "عید سعید فطر",
-      "calendar": "Hijri", "rule": "simple" },
+      "calendar": "Hijri", "rule": "simple",
+      "metadata": {
+        "beginningPersianYear": 1272,
+        "beginningPersianYearReference": "https://upload.wikimedia.org/wikipedia/commons/8/8f/تقویم_فارسی_سال_۱۲۷۲_هجری_شمسی.pdf#page=8"
+      }
+    },
     { "holiday": true, "month": 10, "day": 2, "type": "Iran",
       "title": "تعطیل به مناسبت عید سعید فطر",
       "calendar": "Hijri", "rule": "simple" },
@@ -2011,7 +2026,12 @@
       "calendar": "Hijri", "rule": "simple" },
     { "holiday": false, "month": 11, "day": 11, "type": "Iran",
       "title": "ولادت حضرت امام رضا (ع) (۱۴۸ ه‍.ق)",
-      "calendar": "Hijri", "rule": "simple" },
+      "calendar": "Hijri", "rule": "simple",
+      "metadata": {
+        "beginningPersianYear": 1272,
+        "beginningPersianYearReference": "https://upload.wikimedia.org/wikipedia/commons/8/8f/تقویم_فارسی_سال_۱۲۷۲_هجری_شمسی.pdf#page=11"
+      }
+    },
     { "holiday": false, "month": 12, "day": 1, "type": "Iran",
       "title": "سالروز ازدواج حضرت امام علی (ع) و حضرت فاطمه (س) (۲ ه‍.ق)",
       "calendar": "Hijri", "rule": "simple" },
